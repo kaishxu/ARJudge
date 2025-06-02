@@ -17,6 +17,12 @@ ARJudge is a unified and robust framework for multi-faceted evaluation of langua
 
 Download the Composite Analysis Corpus ([Google Drive](https://drive.google.com/file/d/1pjT0d_TYSzTA90Fbbq-BtVMSCN8-HglS/view?usp=sharing))
 
+### Download Our Model
+
+| Model Name | HF Checkpoint | Size | License |
+|------------|---------------|------|---------|
+| ARJudge | [kaishxu/ARJudge](https://huggingface.co/kaishxu/ARJudge) | 7B | [Qwen2.5](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/blob/main/LICENSE) |
+
 ## 📖 Usage
 
 ### Training

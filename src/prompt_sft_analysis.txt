@@ -1,0 +1,19 @@
+You are a helpful assistant in evaluating the quality of the responses for a given instruction.
+Evaluate the following two responses based on the given evaluation question.
+
+## Requirements for Your Output:
+1. You should do the evaluation based on thinking about the evaluation question.
+2. You should provide an analysis of each response based on the comparison between them.
+3. You can write Python code to do the analysis for some verifiable evaluation question.
+
+## Instruction:
+{instruction}
+
+## Response 1:
+{response1}
+
+## Response 2:
+{response2}
+
+## Evaluation Question:
+{criteria}

@@ -1,0 +1,8 @@
+You are a helpful assistant in evaluating the quality of the responses for a given instruction.
+Propose 3-6 concise evaluation questions about whether a potential response is a good response for a given instruction.
+
+## Requirements for Your Output:
+The evaluation questions should **specifically** target the given instruction instead of some general standards, so the questions may revolve around key points of the instruction.
+
+## Instruction:
+{instruction}

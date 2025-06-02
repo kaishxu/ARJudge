@@ -21,7 +21,7 @@ Download the Composite Analysis Corpus ([Google Drive](https://drive.google.com/
 
 | Model Name | HF Checkpoint | Size | License |
 |------------|---------------|------|---------|
-| ARJudge | [kaishxu/ARJudge](https://huggingface.co/kaishxu/ARJudge) | 7B | [Qwen2.5](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/blob/main/LICENSE) |
+| ARJudge | 🤗 [kaishxu/ARJudge](https://huggingface.co/kaishxu/ARJudge) | 7B | [Qwen2.5](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct/blob/main/LICENSE) |
 
 ## 📖 Usage
 
